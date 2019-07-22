@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AbdoMaster-DemiBold';
+  src: url('AbdoMaster-DemiBold.eot?#iefix') format('embedded-opentype'),  url('AbdoMaster-DemiBold.otf')  format('opentype'),
+	     url('AbdoMaster-DemiBold.woff') format('woff'), url('AbdoMaster-DemiBold.ttf')  format('truetype'), url('AbdoMaster-DemiBold.svg#AbdoMaster-DemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

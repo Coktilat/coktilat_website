@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77.78 60.977">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7f27e0"/>
+      <stop offset="0.299" stop-color="#772ae1"/>
+      <stop offset="0.735" stop-color="#3544ed"/>
+      <stop offset="1" stop-color="#2949ef"/>
+    </linearGradient>
+  </defs>
+  <g id="s4" transform="translate(-514 -2301)">
+    <g id="Group_68" data-name="Group 68" transform="translate(518 2301)">
+      <path id="Union_2" data-name="Union 2" class="cls-1" d="M2.234,60.977A2.216,2.216,0,0,1,0,58.743,21.453,21.453,0,0,1,21.486,37.256H42.514A21.5,21.5,0,0,1,64,58.743a2.216,2.216,0,0,1-2.234,2.234Zm2.431-4.533H59.334A17.009,17.009,0,0,0,42.514,41.725H21.486A17.067,17.067,0,0,0,4.666,56.444ZM14.784,17.085a17.117,17.117,0,1,1,17.15,17.149A17.148,17.148,0,0,1,14.784,17.085Zm4.534,0A12.616,12.616,0,1,0,31.935,4.468,12.619,12.619,0,0,0,19.319,17.085Z" transform="translate(0)"/>
+    </g>
+    <g id="Group_69" data-name="Group 69" transform="translate(533.267 2355.063) rotate(-90)">
+      <line id="Line_1" data-name="Line 1" class="cls-2" y2="5.677" transform="translate(2.839)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-2" x1="5.677" transform="translate(0 2.839)"/>
+    </g>
+    <g id="Group_70" data-name="Group 70" transform="translate(573.626 2337.999) rotate(-90)">
+      <line id="Line_1-2" data-name="Line 1" class="cls-2" y2="8.243" transform="translate(4.121)"/>
+      <line id="Line_2-2" data-name="Line 2" class="cls-2" x1="8.243" transform="translate(0 4.121)"/>
+    </g>
+    <path id="Path_2451" data-name="Path 2451" class="cls-3" d="M4.8,10.387a8.585,8.585,0,0,0-4.4-4.4.608.608,0,0,1,0-1.128A9.13,9.13,0,0,0,4.8.406a.608.608,0,0,1,1.128,0,8.906,8.906,0,0,0,4.455,4.4.608.608,0,0,1,0,1.128,8.691,8.691,0,0,0-4.4,4.455A.651.651,0,0,1,4.8,10.387Z" transform="translate(513.975 2320.263)"/>
+    <path id="Path_2452" data-name="Path 2452" class="cls-3" d="M3.258,7.034A5.807,5.807,0,0,0,.282,4.059a.411.411,0,0,1,0-.763A6.176,6.176,0,0,0,3.258.282a.411.411,0,0,1,.763,0A6.024,6.024,0,0,0,7.034,3.258a.411.411,0,0,1,0,.763A5.879,5.879,0,0,0,4.059,7.034.44.44,0,0,1,3.258,7.034Z" transform="translate(584.489 2317.961)"/>
+  </g>
+</svg>

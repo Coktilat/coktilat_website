@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AbdoMaster-SemiBold';
+  src: url('AbdoMaster-SemiBold.eot?#iefix') format('embedded-opentype'),  url('AbdoMaster-SemiBold.otf')  format('opentype'),
+	     url('AbdoMaster-SemiBold.woff') format('woff'), url('AbdoMaster-SemiBold.ttf')  format('truetype'), url('AbdoMaster-SemiBold.svg#AbdoMaster-SemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

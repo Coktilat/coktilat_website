@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AbdoMaster-Regular';
+  src: url('AbdoMaster-Regular.eot?#iefix') format('embedded-opentype'),  url('AbdoMaster-Regular.otf')  format('opentype'),
+	     url('AbdoMaster-Regular.woff') format('woff'), url('AbdoMaster-Regular.ttf')  format('truetype'), url('AbdoMaster-Regular.svg#AbdoMaster-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

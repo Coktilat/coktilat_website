@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AbdoMaster-ExtraBold';
+  src: url('AbdoMaster-ExtraBold.eot?#iefix') format('embedded-opentype'),  url('AbdoMaster-ExtraBold.otf')  format('opentype'),
+	     url('AbdoMaster-ExtraBold.woff') format('woff'), url('AbdoMaster-ExtraBold.ttf')  format('truetype'), url('AbdoMaster-ExtraBold.svg#AbdoMaster-ExtraBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

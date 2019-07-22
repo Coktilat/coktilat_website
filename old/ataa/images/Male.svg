@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ceff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 19px;
+        font-family: FontAwesome5ProRegular, "Font Awesome 5 Pro";
+      }
+    </style>
+  </defs>
+  <g id="Male" transform="translate(-819.5 -640.5)">
+    <path id="Path_7113" data-name="Path 7113" class="cls-1" d="M17.5,0A17.5,17.5,0,1,1,0,17.5,17.5,17.5,0,0,1,17.5,0Z" transform="translate(819.5 640.5)"/>
+    <text id="_" data-name="" class="cls-2" transform="translate(836.556 665.667)"><tspan x="-5.344" y="0"></tspan></text>
+  </g>
+</svg>
